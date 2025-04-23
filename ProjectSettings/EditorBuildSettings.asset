@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/00_Project/Scenas/Carga.unity
-    guid: acd47d1af9f16ac49a1e2b35cb0194ef
+    path: Assets/00_Project/Prefabs/Hab0.unity
+    guid: ab4b52c7fa002fc458a937c115848feb
+  - enabled: 1
+    path: Assets/00_Project/Prefabs/Hab1.unity
+    guid: 253a2b8e00d3cdd409563569332fb6cc
+  - enabled: 1
+    path: Assets/00_Project/Prefabs/Hab2.unity
+    guid: 2dc187d71f738ed4a8f19f1cb1123a83
+  - enabled: 1
+    path: Assets/00_Project/Prefabs/Hab3.unity
+    guid: a6e3f1d362e4dbe4a928606d0c106029
+  - enabled: 1
+    path: Assets/00_Project/Prefabs/Hab4.unity
+    guid: 709bdf54c6d18db4e8ac7919c59cdfbc
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

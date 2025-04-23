@@ -22588,7 +22588,7 @@ GameObject:
   m_Component:
   - component: {fileID: 535171749113309441}
   m_Layer: 0
-  m_Name: Hab4
+  m_Name: HabL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33463,7 +33463,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7059483062237396385}
   m_Layer: 0
-  m_Name: Hab3
+  m_Name: HabR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
